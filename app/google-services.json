@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "43856810455",
+    "project_id": "poojakit-90048",
+    "storage_bucket": "poojakit-90048.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:43856810455:android:8ee0a11b1b1de085abbb92",
+        "android_client_info": {
+          "package_name": "com.androidapps.poojakit"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAkk0aIGl3YQlFRqLu0k0iOQDP5uXtpfI0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
